@@ -1,0 +1,22 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+ENV/
+
+# Configuration PyCharm
+.idea/
+*.iml
+
+# Fichiers temporaires
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Images
+#P1/
