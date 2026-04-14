@@ -19,8 +19,9 @@ Le projet est divisé en quatre étapes clés reflétant l'évolution de la qual
 
 ## Technologies Utilisées
 
-* **Langage :** Python 3.x
-* **Bibliothèques :** * `NumPy` : Manipulation matricielle intensive.
+* **Langage :** Python 3.14
+* **Bibliothèques :**
+    * `NumPy` : Manipulation matricielle intensive.
     * `SciPy` : Calcul de corrélation via `fftconvolve`.
     * `Matplotlib` : Affichage et sauvegarde des résultats.
 
